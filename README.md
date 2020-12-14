@@ -15,22 +15,22 @@
 
 # 구현요소
 ## Input Url
-
-<img src = "">
+1. 아무것도 작성하지 않고 Search를 눌렀을 경우, Alert가 뜨도록 구현했다. 
+<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/main_page.PNG">
 
 ## Shorter Url 
 1. 같은 URL은 같은 결과값을 갖는다.
 
-<img src = "">
+<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/shortUrl.PNG">
 
 ## 유효하지 않은 URL일 경우
 1. Bad Request로 Alert 처리
 
-<img src = "">
+<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/BadRequest.PNG">
 
 ## Redirect 버튼
 1. 해당 URL이 가리키는 곳으로 Redirect한다.
 
-<img src = "">
+<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/shortUrl.PNG">
 
 
