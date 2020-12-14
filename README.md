@@ -16,7 +16,7 @@
 # 구현요소
 ## Input Url
 1. 아무것도 작성하지 않고 Search를 눌렀을 경우, Alert가 뜨도록 구현했다. 
-<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/main_page.PNG">
+<img src = "https://github.com/yougahee/url-shorter-repo/blob/master/img/EnterUrl.PNG">
 
 ## Shorter Url 
 1. 같은 URL은 같은 결과값을 갖는다.
