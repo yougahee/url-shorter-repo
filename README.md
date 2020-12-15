@@ -10,6 +10,7 @@
 
 ## Server
 - Spring Boot
+- JPA
 
 </br>
 
